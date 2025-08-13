@@ -1,1 +1,1 @@
-console.log("BOBUR SOSKA AND CHURKA")
+console.log("BOBUR)
